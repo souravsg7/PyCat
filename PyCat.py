@@ -1,4 +1,5 @@
 #!/opt/local/bin/python2.7
+#JUST FOR FUN
 
 import sys
 import socket
